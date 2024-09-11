@@ -13495,6 +13495,10 @@ html {
   height: 100%;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .whatsapp-icon {
   position: fixed;
   bottom: 1rem;
